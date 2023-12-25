@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppinsreg.woff2") format("woff2"),
+    url("../fonts/poppinsreg.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/poppinssemibold.woff2") format("woff2"),
+    url("../fonts/poppinssemibold.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/interreg.woff2") format("woff2"),
+    url("../fonts/interreg.woff") format("woff");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/interbold.woff2") format("woff2"),
+    url("../fonts/interbold.woff") format("woff");
+}
